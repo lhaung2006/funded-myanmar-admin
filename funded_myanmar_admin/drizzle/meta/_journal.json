@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1781880259008,
+      "tag": "0000_calm_iron_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1781880322573,
+      "tag": "0001_amazing_james_howlett",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1781881482793,
+      "tag": "0002_abnormal_leper_queen",
+      "breakpoints": true
+    }
+  ]
+}
